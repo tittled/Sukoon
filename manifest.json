@@ -1,0 +1,21 @@
+{
+  "name": "Sukoon YouTube Music Player",
+  "short_name": "Sukoon",
+  "description": "A simple music player with lyrics, powered by YouTube.",
+  "start_url": "/sukoon/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#FF0000",
+  "icons": [
+    {
+      "src": "/sukoon/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/sukoon/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
